@@ -4,6 +4,8 @@ Take a pokemon csv export from collectr and view locally as a gallery of images.
 
 Note - this is a demo/experiment and some cards may need to be added manually.
 
+![preview](./preview/preview.png)
+
 **Workflow:**
 
 1. **Collect cards:**
